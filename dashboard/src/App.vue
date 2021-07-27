@@ -22,7 +22,8 @@
         <mu-drawer open width="200">
             <mu-appbar :z-depth="0">
                 <div style="line-height:24px">
-                    <img src="favicon.ico" width="24" style="vertical-align: top;" />onibuca
+                    流媒体服务
+                    <!-- <img src="favicon.ico" width="24" style="vertical-align: top;" />onibuca -->
                 </div>
                 <div style="font-size:10px;line-height:24px">engine: {{engineInfo.Version}}</div>
             </mu-appbar>
